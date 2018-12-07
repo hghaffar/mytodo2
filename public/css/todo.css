@@ -19,7 +19,7 @@ html {
   -webkit-text-size-adjust: 100%
 }
 body {
-  margin: 0
+  margin: 0;
      background-image: url("klesia-office-france.jpg");
  background-repeat: no-repeat ; /*pas de répition de l'image*/
  background-attachment: fixed ;
