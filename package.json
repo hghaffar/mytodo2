@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@cloudant/cloudant": "^2.4.1",
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "body-parser": "~1.18.3",
     "cfenv": "^1.1.0",
     "dotenv": "^6.1.0",
